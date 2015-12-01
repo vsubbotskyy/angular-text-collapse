@@ -11,7 +11,7 @@
  *  to change appearance of expand/collapse control, 
  *  style .collapse-text-toggle element
  */
-angular.module('angular-textCollapse', [])
+angular.module('textCollapse', [])
     .directive('textCollapse', ['$compile', function($compile) {
 
         return {
