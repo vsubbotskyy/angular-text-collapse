@@ -26,7 +26,6 @@ use **text-collapse** element with required **data-text** and **data-max-length*
                 data-text="{{text}}"
                 data-collapse-label="collapse"
                 data-expand-label="expand">
-</text-collapse>
 ```
 
 
